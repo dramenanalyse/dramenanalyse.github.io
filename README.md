@@ -3,7 +3,7 @@ Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin
 
 # Organisatorisches
 - [Eintrag im VV der FU](https://www.fu-berlin.de/vv/de/lv/793092)
-- [Eintrag im VV der UP] (https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=100743&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+- [Eintrag im VV der UP](https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=100743&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
 - Zoom-Zugang
 
 # Termine
