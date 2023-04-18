@@ -18,8 +18,10 @@ Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin
 ### 3. Sitzung: 4. Mai (Do), 14–16 Uhr: Dramen als digitale Objekte: Praxis
 
 ### 4.–7. Sitzung (Blocksitzung): 26. Mai (Fr), 10–17 Uhr: Editathon & Analoge Analysen
+- Veranstaltungsort: Uni Potsdam.
 
 ### 8.–11. Sitzung (Blocksitzung): 16. Juni (Fr), 10–17 Uhr: Digitale Dramenanalyse
+- Veranstaltungsort: [Ada Lovelace Center for Digital Humanities](https://www.ada.fu-berlin.de/) (Zentralbibliothek der FU, Garystraße 39, 14195 Berlin).
 
 ### 12. Sitzung: 29. Juni (Do.), 14–16 Uhr: Mixed Methods Studien I
 
