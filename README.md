@@ -11,7 +11,7 @@ Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin
 
 ## Termine
 ### 1. Sitzung: 20. April (Do), 14–16 Uhr: Einführung
-- Bis nächste Woche Transkription einzelner Seiten (Seitenverteilung wie besprochen): [https://de.wikisource.org/wiki/Index:Kotzebue_-_Blind_geladen.pdf](https://de.wikisource.org/wiki/Index:Kotzebue_-_Blind_geladen.pdf)
+- Bis nächste Woche Transkription einzelner Seiten (Seitenverteilung wie besprochen): [https://de.wikisource.org/wiki/Index:Kotzebue\_-\_Blind_geladen.pdf](https://de.wikisource.org/wiki/Index:Kotzebue\_-\_Blind_geladen.pdf)
 
 ### 2. Sitzung: 27. April (Do), 14–16 Uhr: Dramen als digitale Objekte: Theorie & TEI
 
