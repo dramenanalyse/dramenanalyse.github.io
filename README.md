@@ -3,6 +3,10 @@
 ## Seminarbeschreibung
 Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin und der Universität Potsdam veranstaltet wird, steht die Analyse dramatischer Texte. Dies geschieht sowohl mithilfe tradierter als auch neuartiger Methoden, wie sie im Bereich der Digital Humanities entwickelt werden. Die Veranstaltung zielt so auch auf die Vermittlung grundlegender digitaler Fertigkeiten, die für das gesamte Studium und darüber hinaus vonnutzen sein können. Der inhaltliche Fokus liegt auf dem deutschsprachigen Drama von der Mitte des 17. bis zur Mitte des 20. Jahrhunderts, bezieht aber die Dramenproduktion anderer europäischer Literaturen seit der Antike mit ein. Untersucht werden nicht nur Volltexte, sondern auch die Vernetzung dramatischer Werke mit der digitalen Umgebung (Enzyklopädien, Faktendatenbanken, digitalisierte Aufführungszeugnisse). Dabei wird auch das Verhältnis zwischen den Ergebnissen digitaler Ansätze und denen traditionellerer Interpretationsmodelle kritisch diskutiert. Auf der [DraCor-Plattform](https://dracor.org/), die im Seminar eine zentrale Stellung einnehmen wird, kann man sich bereits vorab mit Möglichkeiten digitaler Analysen vertraut machen.
 
+## Verantwortlich:
+- [Prof. Dr. Peer Trilcke](https://www.uni-potsdam.de/de/lit-19-jhd/welcome) (UP)
+- [Prof. Dr. Frank Fischer](https://lehkost.github.io/) (FU)
+
 ## Organisatorisches
 - Webex-/Zoom-Zugang?
 
@@ -16,6 +20,7 @@ Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin
 
 ## Termine
 ### 1. Sitzung: 20. April (Do), 14–16 Uhr: Einführung
+- [Einführungspräsentation](https://lehkost.github.io/slides/2023-04-20-dramenanalyse-intro/index.html)
 - Bis nächste Woche Transkription einzelner Seiten (Seitenverteilung wie besprochen): [https://de.wikisource.org/wiki/Index:Kotzebue\_-\_Blind\_geladen.pdf](https://de.wikisource.org/wiki/Index:Kotzebue_-_Blind_geladen.pdf)
 
 ### 2. Sitzung: 27. April (Do), 14–16 Uhr: Dramen als digitale Objekte: Theorie & TEI
