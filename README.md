@@ -4,10 +4,15 @@
 Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin und der Universität Potsdam veranstaltet wird, steht die Analyse dramatischer Texte. Dies geschieht sowohl mithilfe tradierter als auch neuartiger Methoden, wie sie im Bereich der Digital Humanities entwickelt werden. Die Veranstaltung zielt so auch auf die Vermittlung grundlegender digitaler Fertigkeiten, die für das gesamte Studium und darüber hinaus vonnutzen sein können. Der inhaltliche Fokus liegt auf dem deutschsprachigen Drama von der Mitte des 17. bis zur Mitte des 20. Jahrhunderts, bezieht aber die Dramenproduktion anderer europäischer Literaturen seit der Antike mit ein. Untersucht werden nicht nur Volltexte, sondern auch die Vernetzung dramatischer Werke mit der digitalen Umgebung (Enzyklopädien, Faktendatenbanken, digitalisierte Aufführungszeugnisse). Dabei wird auch das Verhältnis zwischen den Ergebnissen digitaler Ansätze und denen traditionellerer Interpretationsmodelle kritisch diskutiert. Auf der [DraCor-Plattform](https://dracor.org/), die im Seminar eine zentrale Stellung einnehmen wird, kann man sich bereits vorab mit Möglichkeiten digitaler Analysen vertraut machen.
 
 ## Organisatorisches
-- [Eintrag im VV der FU](https://www.fu-berlin.de/vv/de/lv/793092)
+- Webex-/Zoom-Zugang?
+
+### Universität Potsdam
 - [Eintrag im VV der UP](https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=100743&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
-- ⚠ Raumänderung an der FU für die Donnerstagstermine: KL 32/202.
-- Webex-/Zoom-Zugang
+
+### Freie Universität
+- :warning: Raumänderung an der FU für die Donnerstagstermine: KL 32/202.
+- [Eintrag im VV der FU](https://www.fu-berlin.de/vv/de/lv/793092)
+- [Link zum Blackboard](https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_180984_1)
 
 ## Termine
 ### 1. Sitzung: 20. April (Do), 14–16 Uhr: Einführung
