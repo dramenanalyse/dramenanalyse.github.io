@@ -24,6 +24,10 @@ Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin
 - Bis nächste Woche Transkription einzelner Seiten (Seitenverteilung wie besprochen): [https://de.wikisource.org/wiki/Index:Kotzebue\_-\_Blind\_geladen.pdf](https://de.wikisource.org/wiki/Index:Kotzebue_-_Blind_geladen.pdf)
 
 ### 2. Sitzung: 27. April (Do), 14–16 Uhr: Dramen als digitale Objekte: Theorie & TEI
+- Nachbesprechung der Transkriptionsaufgabe
+- Zur Vorbereitung:
+  - Lesen Sie bitte das Kapitel [»XML«](https://doi.org/10.1007/978-3-476-05446-3_9) im Band »Digital Humanities. Eine Einführung« (2017, S. 128–146), gibt es auch elektronisch über das Bibliotheksportal Primo der FU sowie im Moodle der UP.
+  - Sie können auch schon einen Blick auf die [Kodierungsrichtlinien (Guidelines) der Text Encoding Initiative (TEI)](https://tei-c.org/release/doc/tei-p5-doc/de/html/index.html) werfen.
 
 ### 3. Sitzung: 4. Mai (Do), 14–16 Uhr: Dramen als digitale Objekte: Praxis
 
