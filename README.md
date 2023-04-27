@@ -29,7 +29,7 @@ Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin
 - Diskussion des gelesenen »XML«-Kapitels.
 - Kurze Einführung in TEI als Markup-Sprache für historische Dokumente (Präsentation).
   - Beispiel: TEI-Markup zu Goethes [»Ur-Faust«](https://dracor.org/api/corpora/ger/play/goethe-faust-in-urspruenglicher-gestalt/tei).
-- Installation des **Oxygen XML Editor** (FU: [über das Software-Portal](https://portal.zedat.fu-berlin.de/software/)).
+- Installation des **Oxygen XML Editor** (FU: [über das Software-Portal](https://portal.zedat.fu-berlin.de/software/); UP: [Campuslizenz](https://www.uni-potsdam.de/de/zim/angebote-loesungen/software-campuslizenzen/oxygen-xml-editor)).
 - Download der Datei ["drama-test.xml"](https://raw.githubusercontent.com/dramenanalyse/dramenanalyse.github.io/main/drama-test.xml).
 - TEI-Markup-Übung (zum Copy & Pasten):
 
