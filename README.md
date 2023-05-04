@@ -11,7 +11,7 @@ Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin
 ### Universität Potsdam
 - [Eintrag im VV der UP](https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=100743&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
 
-### Freie Universität
+### Freie Universität Berlin
 - :warning: Raumänderung an der FU für die Donnerstagstermine: **KL 32/202**.
 - [Eintrag im VV der FU](https://www.fu-berlin.de/vv/de/lv/793092)
 - [Link zum Blackboard](https://fu-berlin.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_180984_1)
@@ -29,9 +29,17 @@ Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin
 - Diskussion des gelesenen »XML«-Kapitels.
 - Kurze Einführung in TEI als Markup-Sprache für historische Dokumente (Präsentation).
   - Beispiel: TEI-Markup zu Goethes [»Ur-Faust«](https://dracor.org/api/corpora/ger/play/goethe-faust-in-urspruenglicher-gestalt/tei).
-- Installation des **Oxygen XML Editor** (FU: [über das Software-Portal](https://portal.zedat.fu-berlin.de/software/); UP: [Campuslizenz](https://www.uni-potsdam.de/de/zim/angebote-loesungen/software-campuslizenzen/oxygen-xml-editor)).
-- Download der Datei ["drama-test.xml"](https://raw.githubusercontent.com/dramenanalyse/dramenanalyse.github.io/main/drama-test.xml).
-- TEI-Markup-Übung (zum Copy & Pasten):
+- Vorbereitung für die nächste Sitzung:
+  - Installation des **Oxygen XML Editor** (FU: [über das Software-Portal](https://portal.zedat.fu-berlin.de/software/); UP: [Campuslizenz](https://www.uni-potsdam.de/de/zim/angebote-loesungen/software-campuslizenzen/oxygen-xml-editor)).
+  - Suchen Sie sich ein kurzes Stück in der [Einakter-Datenbank](https://einakter.dracor.org/), das noch keine Wikidata-ID hat. Vorzugsweise ist das ein deutschsprachiges Originalstück (keine Übersetzung). **Alternativ** können Sie auch jedes andere (längere) Drama zu Ihrem Projekt machen.
+    - Teams sollten je nach Umfang des Stücks aus 1–3 Personen bestehen.
+    - In der nächsten Sitzung präsentieren wir die Projektideen und finalisieren die Zusammensetzung der Teams.
+    - Ziel für den ersten Hackathon: TEI-Kodierung der jeweiligen Dramen und erste Analyseschritte.
+
+### 3. Sitzung: 4. Mai (Do), 14–16 Uhr: Dramen als digitale Objekte: Praxis
+- Praktische Übung mit dem Oxygen XML Editor:
+  - Download der Datei ["drama-test.xml"](https://raw.githubusercontent.com/dramenanalyse/dramenanalyse.github.io/main/drama-test.xml).
+  - TEI-Markup-Übung (zum Copy & Pasten):
 
 ```txt
 Marthens Garten.
@@ -61,20 +69,17 @@ FAUST.
 Muß man?
 ```
 
-- Vorbereitung für die nächste Sitzung:
-  - Suchen Sie sich ein kurzes Stück in der [Einakter-Datenbank](https://einakter.dracor.org/), das noch keine Wikidata-ID hat. Vorzugsweise ist das ein deutschsprachiges Originalstück (keine Übersetzung). **Alternativ** können Sie auch jedes andere (längere) Drama zu Ihrem Projekt machen.
-  - Teams sollten je nach Umfang des Stücks aus 1–3 Personen bestehen.
-  - In der nächsten Sitzung präsentieren wir die Projektideen und finalisieren die Zusammensetzung der Teams.
-  - Ziel für den ersten Hackathon: TEI-Kodierung der jeweiligen Dramen und erste Analyseschritte.
-
-### 3. Sitzung: 4. Mai (Do), 14–16 Uhr: Dramen als digitale Objekte: Praxis
-- Fortsetzung und Diskussion der Übung mit dem Oxygen XML Editor.
 - XPath-Übungen (in Oxygen):
   - ```//l```
   - ```//sp```
   - ```//speaker```
   - ```distinct-values(//speaker)```
   - ```//speaker[contains(., 'U')]```
+- Teams und Projekte:
+  - [Übersicht](https://etherpad.wikimedia.org/p/3xNEx6N2NS8YRZunRO0R)
+- Einführung in [Transkribus](https://transkribus.eu/). Mit diesem Tool kann man Handschriften, aber auch Drucke in 𝔉𝔯𝔞𝔨𝔱𝔲𝔯 digitalisieren.
+- Hausaufgabe bis zur Blocksitzung:
+  - Digitalisierung des von Ihnen ausgewählten Stücks mit Transkribus.
 
 ### 4.–7. Sitzung (Blocksitzung): 26. Mai (Fr), 10–17 Uhr: Editathon & Analoge Analysen
 - Veranstaltungsort: Uni Potsdam.
