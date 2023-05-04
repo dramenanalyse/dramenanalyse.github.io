@@ -25,7 +25,11 @@ Im Mittelpunkt dieses Seminars, das gemeinsam von der Freien Universität Berlin
   - Sie können auch schon einen Blick auf die [Kodierungsrichtlinien (Guidelines) der Text Encoding Initiative (TEI)](https://tei-c.org/release/doc/tei-p5-doc/de/html/index.html) werfen.
 
 ### 2. Sitzung: 27. April (Do), 14–16 Uhr: Dramen als digitale Objekte: Theorie & TEI
-- Nachbesprechung der Transkriptionsaufgabe
+- Nachbesprechung der Transkriptionsaufgabe:
+  - Welche Schwierigkeiten gab es?
+  - historische Orthografie vs. aktuelle Rechtschreibung
+  - semantische Textauszeichnung (Überschriften, g e s p e r r t, **Sprecher\*innen**, *Regieanweisungen*)
+  - editorische Hilfsmittel (obere Leiste des Bearbeitungsfensters in Wikisource)
 - Diskussion des gelesenen »XML«-Kapitels.
 - Kurze Einführung in TEI als Markup-Sprache für historische Dokumente (Präsentation).
   - Beispiel: TEI-Markup zu Goethes [»Ur-Faust«](https://dracor.org/api/corpora/ger/play/goethe-faust-in-urspruenglicher-gestalt/tei).
