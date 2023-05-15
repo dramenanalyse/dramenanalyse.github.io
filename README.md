@@ -85,8 +85,8 @@ Muß man?
 - Hausaufgabe bis zur Blocksitzung:
   - Digitalisierung des von Ihnen ausgewählten Stücks mit Transkribus.
 
-### 4.–7. Sitzung (Blocksitzung): 26. Mai (Fr), 10–17 Uhr: Editathon & Analoge Analysen
-- Veranstaltungsort: Uni Potsdam.
+### 4.–7. Sitzung (Blocksitzung): 26. Mai (Fr), 10–17 Uhr: Editathon & analoge Analysen
+- Veranstaltungsort: Universität Potsdam (Campus Am Neuen Palais 10, 14469 Potsdam, Raum: 8.0.58 = Gebäude »8«, Erdgeschoss (»0«), Raum-Nr. »58«).
 
 ### 8.–11. Sitzung (Blocksitzung): 16. Juni (Fr), 10–17 Uhr: Digitale Dramenanalyse
 - Veranstaltungsort: [Ada Lovelace Center for Digital Humanities](https://www.ada.fu-berlin.de/) (Zentralbibliothek der FU, Garystraße 39, 14195 Berlin).
