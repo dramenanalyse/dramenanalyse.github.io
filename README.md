@@ -86,13 +86,13 @@ Muß man?
   - Digitalisierung des von Ihnen ausgewählten Stücks mit Transkribus.
 
 ### 4.–7. Sitzung (Blocksitzung): 26. Mai (Fr), 10–17 Uhr: Editathon & analoge Analysen
-- Veranstaltungsort: Universität Potsdam (Campus Am Neuen Palais 10, 14469 Potsdam, Raum: 8.0.58 = Gebäude »8«, Erdgeschoss (»0«), Raum-Nr. »58«).
+- Veranstaltungsort: Universität Potsdam ([Campus Am Neuen Palais 10](https://www.google.com/maps/place/52%C2%B023'59.3%22N+13%C2%B000'43.2%22E/@52.3995638,13.0120026,19.26z/data=!4m4!3m3!8m2!3d52.3998021!4d13.0120073)), 14469 Potsdam, Raum: 8.0.58 = Gebäude »8«, Erdgeschoss (»0«), Raum-Nr. »58«).
 
 **10:00-13:00: Dramen digital edieren**
 - Begrüßung (Fischer, Trilcke)
 - Gruppenarbeit: Wo stehen wir mit unserem Editionsprojekt? (Selbstevaluation)
 - Plenum: Berichte aus den Gruppen: Welches Stück genommen? Wie ist der Stand des Projekts? Welche Probleme gibt es (mit Transkribus?); Was wären die nächsten Schritte geht es weiter
--Input (Trilcke): Transformation von Textdatein nach DraCor TEI (Verwendung von EasyDrama mit Collab)
+- Input (Trilcke): Transformation von Textdatein nach DraCor TEI (Verwendung von EasyDrama mit Collab)
 - Gruppenarbeit: Transformation und Arbeit an den TEI-Dateien der eigenen Stücke
 
 **13:00-14:00: Pause / Mensa**
@@ -101,7 +101,7 @@ Muß man?
 - Einführung in [AntConc](https://www.laurenceanthony.net/software/antconc/) (Trilcke)
 - Partnerarbeit (Übung mit AntConc)
 - Durchführung kleiner Forschungsarbeit (Beispiel von Fischer)
--Gruppe-/Partner-/Einzelarbeit: Erarbeitung einer kleinen Forschungsfrage; Durchführung der entsprechenden Analyse
+- Gruppe-/Partner-/Einzelarbeit: Erarbeitung einer kleinen Forschungsfrage; Durchführung der entsprechenden Analyse
 
 ### 8.–11. Sitzung (Blocksitzung): 16. Juni (Fr), 10–17 Uhr: Digitale Dramenanalyse
 - Veranstaltungsort: [Ada Lovelace Center for Digital Humanities](https://www.ada.fu-berlin.de/) (Zentralbibliothek der FU, Garystraße 39, 14195 Berlin).
