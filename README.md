@@ -87,6 +87,7 @@ Muß man?
 
 ### 4.–7. Sitzung (Blocksitzung): 26. Mai (Fr), 10–17 Uhr: Editathon & analoge Analysen
 - Veranstaltungsort: Universität Potsdam (Campus Am Neuen Palais 10, 14469 Potsdam, Raum: 8.0.58 = Gebäude »8«, Erdgeschoss (»0«), Raum-Nr. »58«).
+
 **10:00-13:00: Dramen digital edieren**
 - Begrüßung (Fischer, Trilcke)
 - Gruppenarbeit: Wo stehen wir mit unserem Editionsprojekt? (Selbstevaluation)
