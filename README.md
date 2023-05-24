@@ -100,8 +100,8 @@ Muß man?
 **14:00-17:00 Dramen digital analysieren**
 - Einführung in [AntConc](https://www.laurenceanthony.net/software/antconc/) (Trilcke)
 - Partnerarbeit (Übung mit AntConc)
-  - Daten: [GerDraCor Spoken Text] (https://github.com/dramenanalyse/dramenanalyse.github.io/blob/c08b73895237404a67ae9d70e21afc77c46af797/GerDraCor_SpokenText.zip)
-  - Daten: [GerDraCor Stage Directions] (https://github.com/dramenanalyse/dramenanalyse.github.io/blob/c08b73895237404a67ae9d70e21afc77c46af797/GerDraCor_StageDirections.zip)    
+  - Daten: [GerDraCor Spoken Text](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/c08b73895237404a67ae9d70e21afc77c46af797/GerDraCor_SpokenText.zip)
+  - Daten: [GerDraCor Stage Directions](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/c08b73895237404a67ae9d70e21afc77c46af797/GerDraCor_StageDirections.zip)    
 - Durchführung kleiner Forschungsarbeit (Beispiel von Fischer)
 - Gruppe-/Partner-/Einzelarbeit: Erarbeitung einer kleinen Forschungsfrage; Durchführung der entsprechenden Analyse
 
