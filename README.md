@@ -92,7 +92,8 @@ Muß man?
 - Begrüßung (Fischer, Trilcke)
 - Gruppenarbeit: Wo stehen wir mit unserem Editionsprojekt? (Selbstevaluation)
 - Plenum: Berichte aus den Gruppen: Welches Stück genommen? Wie ist der Stand des Projekts? Welche Probleme gibt es (mit Transkribus?); Was wären die nächsten Schritte geht es weiter
-- Input (Trilcke): Transformation von Textdatein nach DraCor TEI (Verwendung von EasyDrama mit Colab): [Notebook auf Colab](https://colab.research.google.com/github/dracor-org/ezdrama/blob/main/ezdramaparser.ipynb)
+- Vorbereiten für die Transformation mit [ezDrama](https://github.com/dracor-org/ezdrama)
+- Input (Trilcke): Transformation von Textdatein nach DraCor TEI (Verwendung von ezDrama mit Colab): [Notebook auf Colab](https://colab.research.google.com/github/dracor-org/ezdrama/blob/main/ezdramaparser.ipynb)
 - Gruppenarbeit: Transformation und Arbeit an den TEI-Dateien der eigenen Stücke
 
 **13:00-14:00: Pause / Mensa**
