@@ -92,7 +92,7 @@ Muß man?
 - Begrüßung (Fischer, Trilcke)
 - Gruppenarbeit: Wo stehen wir mit unserem Editionsprojekt? (Selbstevaluation)
 - Plenum: Berichte aus den Gruppen: Welches Stück genommen? Wie ist der Stand des Projekts? Welche Probleme gibt es (mit Transkribus?); Was wären die nächsten Schritte geht es weiter
-- Input (Trilcke): Transformation von Textdatein nach DraCor TEI (Verwendung von EasyDrama mit Collab)
+- Input (Trilcke): Transformation von Textdatein nach DraCor TEI (Verwendung von EasyDrama mit Colab): [Notebook auf Colab](https://colab.research.google.com/github/dracor-org/ezdrama/blob/main/ezdramaparser.ipynb)
 - Gruppenarbeit: Transformation und Arbeit an den TEI-Dateien der eigenen Stücke
 
 **13:00-14:00: Pause / Mensa**
@@ -100,8 +100,10 @@ Muß man?
 **14:00-17:00 Dramen digital analysieren**
 - Einführung in [AntConc](https://www.laurenceanthony.net/software/antconc/) (Trilcke)
 - Partnerarbeit (Übung mit AntConc)
-  - Daten: [GerDraCor Spoken Text](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/c08b73895237404a67ae9d70e21afc77c46af797/GerDraCor_SpokenText.zip)
-  - Daten: [GerDraCor Stage Directions](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/c08b73895237404a67ae9d70e21afc77c46af797/GerDraCor_StageDirections.zip)    
+  - Daten: [GerDraCor Spoken Text](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/0515346f086c817ad5d411c7ab4933350c5b956d/GerDraCor_SpokenText.zip)
+  - Daten: [GerDraCor Stage Directions](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/0515346f086c817ad5d411c7ab4933350c5b956d/GerDraCor_StageDirections.zip)    
+  - Metadaten: [GerDraCor_Metadata.csv](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/0515346f086c817ad5d411c7ab4933350c5b956d/GerDraCor_Metadata.csv)
+  - Deutsche Stopword-Liste: [stopword_list_de.txt](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/0515346f086c817ad5d411c7ab4933350c5b956d/stopword_list_de.txt)
 - Durchführung kleiner Forschungsarbeit (Beispiel von Fischer)
 - Gruppe-/Partner-/Einzelarbeit: Erarbeitung einer kleinen Forschungsfrage; Durchführung der entsprechenden Analyse
 
