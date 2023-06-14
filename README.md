@@ -111,6 +111,22 @@ Muß man?
 ### 8.–11. Sitzung (Blocksitzung): 16. Juni (Fr), 10–17 Uhr: Digitale Dramenanalyse
 - Veranstaltungsort: [Ada Lovelace Center for Digital Humanities](https://www.ada.fu-berlin.de/) (Zentralbibliothek der FU, Garystraße 39, 14195 Berlin).
 
+**10:15–11:15 Digitales Edieren (60 Minuten)**
+- Stand der Projekte 
+- Transformation in XML: Erfahrungsberichte (und Helpdesk)
+- Korrektur der Speaker Identification 
+
+**11:30–13:00 Mixed Methods: Theorie und (eigene) Anwendung (90 Minuten)**
+- gemeinsame Diskussion der Forschungstexte (mit Fokus Mixed Methods): Stubbs, Herrmann
+- Diskussion über mögliche eigene Forschungsprojekte
+
+**13:00–14:00 Mittagspause (60 Minuten)**
+
+**14:00–17:00 Stylo-Hackathon (120–180 Minuten)**
+- Theoretischer Einführungsvortrag
+- Einführung in die Software
+- Hackathon in Gruppen
+
 ### 12. Sitzung: 29. Juni (Do.), 14–16 Uhr: Mixed Methods Studien I
 
 ### 13. Sitzung: 6. Juli (Do), 14–16 Uhr: Mixed Methods Studien II
