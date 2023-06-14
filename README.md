@@ -109,7 +109,7 @@ Muß man?
 - Gruppe-/Partner-/Einzelarbeit: Erarbeitung einer kleinen Forschungsfrage; Durchführung der entsprechenden Analyse
 
 ### 8.–11. Sitzung (Blocksitzung): 16. Juni (Fr), 10–17 Uhr: Digitale Dramenanalyse
-- Veranstaltungsort: [Ada Lovelace Center for Digital Humanities](https://www.ada.fu-berlin.de/) (Zentralbibliothek der FU, Garystraße 39, 14195 Berlin).
+- Veranstaltungsort: [Ada Lovelace Center for Digital Humanities](https://www.ada.fu-berlin.de/) (CoWorking Space 2. OG, Zentralbibliothek der FU, Garystraße 39, 14195 Berlin).
 
 **10:15–11:15 Digitales Edieren (60 Minuten)**
 - Stand der Projekte 
