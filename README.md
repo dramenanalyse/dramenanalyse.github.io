@@ -88,7 +88,7 @@ Muß man?
 ### 4.–7. Sitzung (Blocksitzung): 26. Mai (Fr), 10–17 Uhr: Editathon & analoge Analysen
 - Veranstaltungsort: Universität Potsdam ([Campus Am Neuen Palais 10](https://www.google.com/maps/place/52%C2%B023'59.3%22N+13%C2%B000'43.2%22E/@52.3995638,13.0120026,19.26z/data=!4m4!3m3!8m2!3d52.3998021!4d13.0120073)), 14469 Potsdam, Raum: 8.0.58 = Gebäude »8«, Erdgeschoss (»0«), Raum-Nr. »58«).
 
-**10:00-13:00: Dramen digital edieren**
+**10:00–13:00 – Dramen digital edieren**
 - Begrüßung (Fischer, Trilcke)
 - Gruppenarbeit: Wo stehen wir mit unserem Editionsprojekt? (Selbstevaluation)
 - Plenum: Berichte aus den Gruppen: Welches Stück genommen? Wie ist der Stand des Projekts? Welche Probleme gibt es (mit Transkribus?); Was wären die nächsten Schritte geht es weiter
@@ -96,13 +96,13 @@ Muß man?
 - Input (Trilcke): Transformation von Textdatein nach DraCor TEI (Verwendung von ezDrama mit Colab): [Notebook auf Colab](https://colab.research.google.com/github/dracor-org/ezdrama/blob/main/ezdramaparser.ipynb)
 - Gruppenarbeit: Transformation und Arbeit an den TEI-Dateien der eigenen Stücke
 
-**13:00-14:00: Pause / Mensa**
+**13:00–14:00 – Pause / Mensa**
 
-**14:00-17:00 Dramen digital analysieren**
+**14:00–17:00 – Dramen digital analysieren**
 - Einführung in [AntConc](https://www.laurenceanthony.net/software/antconc/) (Trilcke)
 - Partnerarbeit (Übung mit AntConc)
   - Daten: [GerDraCor Spoken Text](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/0515346f086c817ad5d411c7ab4933350c5b956d/GerDraCor_SpokenText.zip)
-  - Daten: [GerDraCor Stage Directions](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/0515346f086c817ad5d411c7ab4933350c5b956d/GerDraCor_StageDirections.zip)    
+  - Daten: [GerDraCor Stage Directions](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/0515346f086c817ad5d411c7ab4933350c5b956d/GerDraCor_StageDirections.zip)
   - Metadaten: [GerDraCor_Metadata.csv](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/0515346f086c817ad5d411c7ab4933350c5b956d/GerDraCor_Metadata.csv)
   - Deutsche Stopword-Liste: [stopword_list_de.txt](https://github.com/dramenanalyse/dramenanalyse.github.io/blob/0515346f086c817ad5d411c7ab4933350c5b956d/stopword_list_de.txt)
 - Durchführung kleiner Forschungsarbeit (Beispiel von Fischer)
@@ -111,23 +111,23 @@ Muß man?
 ### 8.–11. Sitzung (Blocksitzung): 16. Juni (Fr), 10–17 Uhr: Digitale Dramenanalyse
 - Veranstaltungsort: [Ada Lovelace Center for Digital Humanities](https://www.ada.fu-berlin.de/) (CoWorking Space 2. OG, Zentralbibliothek der FU, Garystraße 39, 14195 Berlin).
 
-**10:15–11:15 Digitales Edieren (60 Minuten)**
-- Stand der Projekte 
+**10:15–11:15 – Digitales Edieren (60 Minuten)**
+- Stand der Projekte
 - Transformation in XML: Erfahrungsberichte (und Helpdesk)
-- Korrektur der Speaker Identification 
+- Korrektur der Speaker Identification
 
-**11:30–13:00 Mixed Methods: Theorie und (eigene) Anwendung (90 Minuten)**
+**11:30–13:00 – Mixed Methods: Theorie und (eigene) Anwendung (90 Minuten)**
 - gemeinsame Diskussion der Forschungstexte (mit Fokus Mixed Methods): Stubbs, Herrmann
 - Diskussion über mögliche eigene Forschungsprojekte
 
-**13:00–14:00 Mittagspause (60 Minuten)**
+**13:00–14:00 – Mittagspause (60 Minuten)**
 
-**14:00–17:00 Stylo-Hackathon (120–180 Minuten)**
-- Theoretischer Einführungsvortrag
+**14:00–17:00 – Stylo-Hackathon (120–180 Minuten)**
+- Vortrag »Einführung in die Stilometrie mit Stylo« (Folien: [bit.ly/dram166](https://bit.ly/dram166))
 - Einführung in die Software
 - Hackathon in Gruppen
 
-### 12. Sitzung: 29. Juni (Do.), 14–16 Uhr: Mixed Methods Studien I
+### 12. Sitzung: 29. Juni (Do), 14–16 Uhr: Mixed Methods Studien I
 
 ### 13. Sitzung: 6. Juli (Do), 14–16 Uhr: Mixed Methods Studien II
 
