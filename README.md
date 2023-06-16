@@ -125,6 +125,7 @@ Muß man?
 **14:00–17:00 – Stylo-Hackathon (120–180 Minuten)**
 - Vortrag »Einführung in die Stilometrie mit Stylo« (Folien: [bit.ly/dram166](https://bit.ly/dram166))
 - Einführung in die Software
+  - Arbeitskorpus: ["stylo_dramenanalyse_directories.zip"](https://lehkost.github.io/slides/2023-06-16-dramenanalyse-stylo/files/stylo_dramenanalyse_directories.zip)
 - Hackathon in Gruppen
 
 ### 12. Sitzung: 29. Juni (Do), 14–16 Uhr: Mixed Methods Studien I
