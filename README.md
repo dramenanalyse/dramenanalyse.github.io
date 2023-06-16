@@ -117,7 +117,9 @@ Muß man?
 - Korrektur der Speaker Identification
 
 **11:30–13:00 – Mixed Methods: Theorie und (eigene) Anwendung (90 Minuten)**
-- gemeinsame Diskussion der Forschungstexte (mit Fokus Mixed Methods): Stubbs, Herrmann
+- gemeinsame Diskussion der Forschungstexte (mit Fokus Mixed Methods):
+  - Michael Stubbs: Conrad in the computer: examples of quantitative stylistic methods. In: Language and Literature 14.1 (2005), S. 5–24. ([doi:10.1177/0963947005048873](https://doi.org/10.1177/0963947005048873))
+  - Berenike J. Herrmann: In a test bed with Kafka. Introducing a mixed-method approach to digital stylistics. In: Digital Humanities Quarterly 11.4 (2017). (http://www.digitalhumanities.org/dhq/vol/11/4/000341/000341.html
 - Diskussion über mögliche eigene Forschungsprojekte
 
 **13:00–14:00 – Mittagspause (60 Minuten)**
