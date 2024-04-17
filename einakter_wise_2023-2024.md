@@ -1,4 +1,4 @@
-# Der deutschsprachige Einakter
+# Der deutschsprachige Einakter (Wintersemester 2023/2024)
 
 :information: Das Seminar lief vom 16. Oktober 2023 bis 12. Februar 2024 an der Freien Universität Berlin. Der hier veröffentlichte **Seminarplan** ist als Dokumentation gedacht.
 
