@@ -20,13 +20,14 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - [Einstiegspräsentation](https://lehkost.github.io/slides/2025-04-14-bgltr/index.html)
   - inkl. Vorstellungsrunde
 - Besprechung des Seminarplans und Verteilung der Referate
+- Anwesenheitsliste und ›aktive Teilnahme‹
 - organisatorische Fragen
 - Information zu den Semesterprojekten
   - Gruppenarbeit möglich
   - Wahl eines noch nicht digitalisierten Trauerspiels aus dieser [Liste](https://github.com/lehkost/bgltr/blob/main/bgltr.csv) (Festlegung bis zum 12. Mai 2025)
   - Digitalisierung des gewählten Stücks mittels OCR, Fehlerbereinigung, Konvertierung ins TEI-Format
 - Hausaufgabe zur nächsten Sitzung
-  - Transkription »Die Lissabonner« auf Wikisource (Verteilung der einzelnen Seiten erfolgt im Seminar)
+  - Transkription [»Die Lissabonner« auf Wikisource](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf) (Verteilung der einzelnen Seiten erfolgt im Seminar)
 
 ### 2. Sitzung: 28. April 2025 (Mo), 14–16 Uhr: Wofür steht ›bürgerlich‹ im ›bürgerlichen Trauerspiel‹?
 - Lektüre zur Sitzung und Referatsthema
