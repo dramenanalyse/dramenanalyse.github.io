@@ -33,18 +33,19 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Lektüre zur Sitzung und Referatsthema
   - Karl Eibl: »Bürgerliches Trauerspiel.« In: Reallexikon der deutschen Literaturwissenschaft. 3. Auflage. De Gruyter 2007. Band I, S. 285–287. ([doi:10.1515/9783110914672.190](https://doi.org/10.1515/9783110914672.190))
   - Karl S. Guthke: Das deutsche bürgerliche Trauerspiel. 6., vollständig überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler 2006, S. 7–15. ([doi:10.1007/978-3-476-01491-7](https://doi.org/10.1007/978-3-476-01491-7))
-- Nachbereitung der Transkriptionsaufgabe
+- Nachbereitung der Transkriptionsaufgabe (siehe [hier](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
+  - Umgang mit historischer Orthografie (»Hofnung«, »misfallen«, »gethan«, »freylich«, »wiederhohlen«, »blos« usw.)
+- Einführung in [Transkribus](https://www.transkribus.org/) (Folien folgen)
 
 ### 3. Sitzung: 5. Mai 2025 (Mo), 14–16 Uhr: »Miß Sara Sampson«
 - Lektüre zur Sitzung und Referatsthema
   - Gotthold Ephraim Lessing: Miß Sara Sampson. Ein bürgerliches Trauerspiel, in fünf Aufzügen. In: G. E. Leßings Schrifften. (1753–1755.) Sechster Theil. Berlin: Voß 1755, S. 1–216. ([Google Books](https://books.google.com/books?id=vJtjAAAAcAAJ&pg=PA1)) (alternativ: Reclam-Ausgabe o.&nbsp;ä.)
+- Festlegen der Semesterprojekte
 
 ### 4. Sitzung: 12. Mai 2025 (Mo), 14–16 Uhr: TEI, Transkribus und Semesterprojekte
 - Lektüre zur Sitzung und Referatsthema
   - Georg Vogeler, Patrick Sahle: XML. In: Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 2017, S. 128–146. ([doi:10.1007/978-3-476-05446-3_9](https://doi.org/10.1007/978-3-476-05446-3_9))
   - Werfen Sie auch einen Blick auf die [Kodierungsrichtlinien (Guidelines) der Text Encoding Initiative (TEI)](https://tei-c.org/release/doc/tei-p5-doc/de/html/index.html).
-- Einführung in [Transkribus](https://www.transkribus.org/)
-- Festlegen der Semesterprojekte
 - Vorbereitung für die nächste Sitzung
   - Installation des **Oxygen XML Editor** [über das Software-Portal der FU](https://portal.zedat.fu-berlin.de/software/)
 
