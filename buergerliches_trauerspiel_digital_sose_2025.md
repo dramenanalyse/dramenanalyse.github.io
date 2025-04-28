@@ -33,14 +33,19 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Lektüre zur Sitzung und Referatsthema
   - Karl Eibl: »Bürgerliches Trauerspiel.« In: Reallexikon der deutschen Literaturwissenschaft. 3. Auflage. De Gruyter 2007. Band I, S. 285–287. ([doi:10.1515/9783110914672.190](https://doi.org/10.1515/9783110914672.190))
   - Karl S. Guthke: Das deutsche bürgerliche Trauerspiel. 6., vollständig überarbeitete und erweiterte Auflage. Stuttgart, Weimar: Metzler 2006, S. 7–15. ([doi:10.1007/978-3-476-01491-7](https://doi.org/10.1007/978-3-476-01491-7))
-- Nachbereitung der Transkriptionsaufgabe (siehe [hier](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
+  - Nachbereitung der Transkriptionsaufgabe (siehe [hier](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
   - Umgang mit historischer Orthografie (»Hofnung«, »misfallen«, »gethan«, »freylich«, »wiederhohlen«, »blos« usw.)
-- Suche nach Scans der bürgerlichen Trauerspiele aus bereits erwähnter [Liste](https://github.com/lehkost/bgltr/blob/main/bgltr.csv)
 - Einführung in [Transkribus](https://www.transkribus.org/) ([Folien](https://lehkost.github.io/slides/2025-04-28-transkribus/index.html))
+- Suche nach Scans der bürgerlichen Trauerspiele aus bereits erwähnter [Liste](https://github.com/lehkost/bgltr/blob/main/bgltr.csv)
 
 ### 3. Sitzung: 5. Mai 2025 (Mo), 14–16 Uhr: »Miß Sara Sampson«
 - Lektüre zur Sitzung und Referatsthema
   - Gotthold Ephraim Lessing: Miß Sara Sampson. Ein bürgerliches Trauerspiel, in fünf Aufzügen. In: G. E. Leßings Schrifften. (1753–1755.) Sechster Theil. Berlin: Voß 1755, S. 1–216. ([Google Books](https://books.google.com/books?id=vJtjAAAAcAAJ&pg=PA1)) (alternativ: Reclam-Ausgabe o.&nbsp;ä.)
+- Quantitative Dominanzrelationen nach Pfister:
+  - Manfred Pfister: Das Drama. Theorie und Analyse. (Zuerst 1977.) 11. Auflage. München: Fink 2001, S. 227–228.
+  - Überführung ins Digitale:
+    - Frank Fischer, Peer Trilcke, Christopher Kittel, Carsten Milling, Daniil Skorinkin: [To Catch a Protagonist: Quantitative Dominance Relations in German-Language Drama (1730–1930).](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=193) In: DH2018: »Puentes/Bridges«. 26–29 June 2018. Book of Abstracts / Libro de resúmenes. Mexico: Red de Humanidades Digitales A. C.
+- Nachbereitung der zweiten Transkriptionsaufgabe (siehe wieder [hier](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
 - Festlegen der Semesterprojekte
 
 ### 4. Sitzung: 12. Mai 2025 (Mo), 14–16 Uhr: TEI und Semesterprojekte
