@@ -36,7 +36,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Nachbereitung der Transkriptionsaufgabe (siehe [hier](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
   - Umgang mit historischer Orthografie (»Hofnung«, »misfallen«, »gethan«, »freylich«, »wiederhohlen«, »blos« usw.)
 - Suche nach Scans der bürgerlichen Trauerspiele aus bereits erwähnter [Liste](https://github.com/lehkost/bgltr/blob/main/bgltr.csv)
-- Einführung in [Transkribus](https://www.transkribus.org/) (Folien folgen)
+- Einführung in [Transkribus](https://www.transkribus.org/) ([Folien](https://lehkost.github.io/slides/2025-04-28-transkribus/index.html))
 
 ### 3. Sitzung: 5. Mai 2025 (Mo), 14–16 Uhr: »Miß Sara Sampson«
 - Lektüre zur Sitzung und Referatsthema
