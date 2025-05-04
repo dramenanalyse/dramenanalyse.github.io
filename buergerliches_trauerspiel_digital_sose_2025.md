@@ -39,11 +39,15 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Suche nach Scans der bürgerlichen Trauerspiele aus bereits erwähnter [Liste](https://github.com/lehkost/bgltr/blob/main/bgltr.csv)
 
 ### 3. Sitzung: 5. Mai 2025 (Mo), 14–16 Uhr: »Miß Sara Sampson«
+- Notabene
+  - »Der Schauspieler Ulrich Matthes sieht in \[Wolfram\] Weimer einen ›stramm konservativen, wirtschaftsliberalen Ideologen mit in unzähligen Talkshows gestähltem Sendungsbewusstsein‹. Tatsächlich liegt Weimer mit 38 Auftritten seit 2019 als Studiogast in Sendungen wie ›Maischberger‹ oder ›Markus Lanz‹ noch vor Politgrößen wie Ricarda Lang, Armin Laschet oder Carsten Linnemann. Matthes befürchtet, in den kommenden vier Jahren werde Helmut Kohls ›geistig-moralische Wende‹ nachgeholt: **›Ein bürgerliches Trauerspiel.‹**« ([Der Spiegel 19/2025](https://www.spiegel.de/kultur/wolfram-weimer-im-portraet-der-meinungsritter-a-e8deb6ae-358e-49bc-b28f-bcef44448458))
 - Lektüre zur Sitzung und Referatsthema
   - Gotthold Ephraim Lessing: Miß Sara Sampson. Ein bürgerliches Trauerspiel, in fünf Aufzügen. In: G. E. Leßings Schrifften. (1753–1755.) Sechster Theil. Berlin: Voß 1755, S. 1–216. ([Google Books](https://books.google.com/books?id=vJtjAAAAcAAJ&pg=PA1)) (alternativ: Reclam-Ausgabe o.&nbsp;ä.)
-- Quantitative Dominanzrelationen nach Pfister:
+- Empfohlene Sekundärliteratur
+  - Monika Fick: ›Miß Sara Sampson.‹ In: dies.: Lessing-Handbuch. Leben – Werk – Wirkung. Vierte, aktualisierte und erweiterte Auflage. Stuttgart: Metzler 2016, S. 133–147. ([doi:10.1007/978-3-476-05399-2_11](https://doi.org/10.1007/978-3-476-05399-2_11))
+- Quantitative Dominanzrelationen nach Pfister
   - Manfred Pfister: Das Drama. Theorie und Analyse. (Zuerst 1977.) 11. Auflage. München: Fink 2001, S. 227–228.
-  - Überführung ins Digitale:
+  - Überführung ins Digitale
     - Frank Fischer, Peer Trilcke, Christopher Kittel, Carsten Milling, Daniil Skorinkin: [To Catch a Protagonist: Quantitative Dominance Relations in German-Language Drama (1730–1930).](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=193) In: DH2018: »Puentes/Bridges«. 26–29 June 2018. Book of Abstracts / Libro de resúmenes. Mexico: Red de Humanidades Digitales A. C.
 - Nachbereitung der zweiten Transkriptionsaufgabe (siehe wieder [hier](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
 - Festlegen der Semesterprojekte
