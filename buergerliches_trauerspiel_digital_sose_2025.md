@@ -55,11 +55,14 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Festlegen der Semesterprojekte
 
 ### 4. Sitzung: 12. Mai 2025 (Mo), 14–16 Uhr: TEI und reguläre Ausdrücke
-- Lektüre zur Sitzung und Referatsthema
+- Semesterprojekte
+  - Stand der Digitalisierungen (OCR) mit Transkribus
+- Lektüre zur Sitzung
   - Georg Vogeler, Patrick Sahle: XML. In: Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 2017, S. 128–146. ([doi:10.1007/978-3-476-05446-3_9](https://doi.org/10.1007/978-3-476-05446-3_9))
   - Werfen Sie auch einen Blick auf die [Kodierungsrichtlinien (Guidelines) der Text Encoding Initiative (TEI)](https://tei-c.org/release/doc/tei-p5-doc/de/html/index.html).
-- Reguläre Ausdrücke
-  - Vortrag (Folien folgen)
+- Einführung in TEI ([Folien](https://lehkost.github.io/slides/2025-05-12-tei/index.html))
+- Einführung in reguläre Ausdrücke
+  - Vortrag ([Folien](https://lehkost.github.io/slides/2025-05-12-regex/index.html))
   - RegEx-Übungen mit [Visual Studio Code](https://code.visualstudio.com/) oder [VSCodium](https://vscodium.com/)
   - Auflösen der Trennzeichen in den OCR-Dateien
 - Vorbereitung für die nächste Sitzung
