@@ -45,6 +45,8 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
   - Gotthold Ephraim Lessing: Miß Sara Sampson. Ein bürgerliches Trauerspiel, in fünf Aufzügen. In: G. E. Leßings Schrifften. (1753–1755.) Sechster Theil. Berlin: Voß 1755, S. 1–216. ([Google Books](https://books.google.com/books?id=vJtjAAAAcAAJ&pg=PA1)) (alternativ: Reclam-Ausgabe o.&nbsp;ä.)
 - Empfohlene Sekundärliteratur
   - Monika Fick: ›Miß Sara Sampson.‹ In: dies.: Lessing-Handbuch. Leben – Werk – Wirkung. Vierte, aktualisierte und erweiterte Auflage. Stuttgart: Metzler 2016, S. 133–147. ([doi:10.1007/978-3-476-05399-2_11](https://doi.org/10.1007/978-3-476-05399-2_11))
+- Zur Handlung
+  - [»Miss Sara Sampson« in Sommers Weltliteratur to go](https://youtu.be/OXdNaT8_Fk0?si=j4rc_3xi-86LXTu8) (2017, ca. 7 Min.)
 - Quantitative Dominanzrelationen nach Pfister
   - Manfred Pfister: Das Drama. Theorie und Analyse. (Zuerst 1977.) 11. Auflage. München: Fink 2001, S. 227–228.
   - Überführung ins Digitale
@@ -52,10 +54,14 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Nachbereitung der zweiten Transkriptionsaufgabe (siehe wieder [hier](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
 - Festlegen der Semesterprojekte
 
-### 4. Sitzung: 12. Mai 2025 (Mo), 14–16 Uhr: TEI und Semesterprojekte
+### 4. Sitzung: 12. Mai 2025 (Mo), 14–16 Uhr: TEI und reguläre Ausdrücke
 - Lektüre zur Sitzung und Referatsthema
   - Georg Vogeler, Patrick Sahle: XML. In: Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 2017, S. 128–146. ([doi:10.1007/978-3-476-05446-3_9](https://doi.org/10.1007/978-3-476-05446-3_9))
   - Werfen Sie auch einen Blick auf die [Kodierungsrichtlinien (Guidelines) der Text Encoding Initiative (TEI)](https://tei-c.org/release/doc/tei-p5-doc/de/html/index.html).
+- Reguläre Ausdrücke
+  - Vortrag (Folien folgen)
+  - RegEx-Übungen mit [Visual Studio Code](https://code.visualstudio.com/) oder [VSCodium](https://vscodium.com/)
+  - Auflösen der Trennzeichen in den OCR-Dateien
 - Vorbereitung für die nächste Sitzung
   - Installation des **Oxygen XML Editor** [über das Software-Portal der FU](https://portal.zedat.fu-berlin.de/software/)
 
