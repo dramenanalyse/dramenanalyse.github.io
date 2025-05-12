@@ -51,30 +51,32 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
   - Manfred Pfister: Das Drama. Theorie und Analyse. (Zuerst 1977.) 11. Auflage. München: Fink 2001, S. 227–228.
   - Überführung ins Digitale
     - Frank Fischer, Peer Trilcke, Christopher Kittel, Carsten Milling, Daniil Skorinkin: [To Catch a Protagonist: Quantitative Dominance Relations in German-Language Drama (1730–1930).](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=193) In: DH2018: »Puentes/Bridges«. 26–29 June 2018. Book of Abstracts / Libro de resúmenes. Mexico: Red de Humanidades Digitales A. C.
-- Nachbereitung der zweiten Transkriptionsaufgabe (siehe wieder [hier](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
 - Festlegen der Semesterprojekte
 
 ### 4. Sitzung: 12. Mai 2025 (Mo), 14–16 Uhr: TEI und reguläre Ausdrücke
+- Texterfassung komplett: ([»Die Lissabonner« auf Wikisource](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf)) (= Lektüre zu nächster Woche)
 - Semesterprojekte
   - Stand der Digitalisierungen (OCR) mit Transkribus
 - Lektüre zur Sitzung
   - Georg Vogeler, Patrick Sahle: XML. In: Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 2017, S. 128–146. ([doi:10.1007/978-3-476-05446-3_9](https://doi.org/10.1007/978-3-476-05446-3_9))
-  - Werfen Sie auch einen Blick auf die [Kodierungsrichtlinien (Guidelines) der Text Encoding Initiative (TEI)](https://tei-c.org/release/doc/tei-p5-doc/de/html/index.html).
+  - Werfen Sie auch einen Blick auf die [Kodierungsrichtlinien (Guidelines) der Text Encoding Initiative (TEI)](https://tei-c.org/release/doc/tei-p5-doc/de/html/index.html), besonders den Abschnitt zu Dramen (»Performance Texts«).
 - Einführung in TEI ([Folien](https://lehkost.github.io/slides/2025-05-12-tei/index.html))
+  - Beispiel: [»Miß Sara Sampson« im TEI-Format](https://dracor.org/api/v1/corpora/ger/plays/lessing-miss-sara-sampson/tei)
 - Einführung in reguläre Ausdrücke
   - Vortrag ([Folien](https://lehkost.github.io/slides/2025-05-12-regex/index.html))
   - RegEx-Übungen mit [Visual Studio Code](https://code.visualstudio.com/) oder [VSCodium](https://vscodium.com/)
-  - Auflösen der Trennzeichen in den OCR-Dateien
+    - Bereinigung der OCR-Ergebnisse mit regulären Ausdrücken (etwa Auflösen der Trennzeichen)
+      - Beispieldatei aus Transkribus ([Download](https://box.fu-berlin.de/s/3mjZLiF7FnJW8mF)) (Quelle: [Google Books](»Die Lissabonner« auf Wikisource))
 - Vorbereitung für die nächste Sitzung
   - Installation des **Oxygen XML Editor** [über das Software-Portal der FU](https://portal.zedat.fu-berlin.de/software/)
 
 ### 5. Sitzung: 19. Mai 2025 (Mo), 14–16 Uhr: »Die Lissabonner«
 - Lektüre zur Sitzung und Referatsthema
-  - \[Christian Gottlieb Lieberkühn:\] Die Lissabonner, ein bürgerliches Trauerspiel, in einem Aufzuge. Breslau: Meyer 1758, S. 7–70. ([Stabi Berlin](http://resolver.staatsbibliothek-berlin.de/SBB0000DC9D00000013))
+  - \[Christian Gottlieb Lieberkühn:\] Die Lissabonner, ein bürgerliches Trauerspiel, in einem Aufzuge. Breslau: Meyer 1758, S. 7–70. (über [Stabi Berlin](http://resolver.staatsbibliothek-berlin.de/SBB0000DC9D00000013) bzw. [Wikisource](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
 - Konvertierung der Texte ins TEI-Format
-  - Bereinigung der OCR-Ergebnisse mit regulären Ausdrücken
   - Einführung in [EzDrama](https://github.com/dracor-org/ezdrama)
   - Arbeiten mit dem Oxygen XML Editor
+    - Beispieldatei: https://dracor.org/api/v1/corpora/ger/plays/lessing-miss-sara-sampson/tei
 
 ### 6. Sitzung: 26. Mai 2025 (Mo), 14–16 Uhr: Distant Reading I: Voyant
 - Lektüre zur Sitzung und Referatsthema
