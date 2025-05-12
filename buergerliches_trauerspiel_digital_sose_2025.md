@@ -66,7 +66,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
   - Vortrag ([Folien](https://lehkost.github.io/slides/2025-05-12-regex/index.html))
   - RegEx-Übungen mit [Visual Studio Code](https://code.visualstudio.com/) oder [VSCodium](https://vscodium.com/)
     - Bereinigung der OCR-Ergebnisse mit regulären Ausdrücken (etwa Auflösen der Trennzeichen)
-      - Beispieldatei aus Transkribus ([Download](https://box.fu-berlin.de/s/3mjZLiF7FnJW8mF)) (Quelle: [Google Books](»Die Lissabonner« auf Wikisource))
+      - Beispieldatei aus Transkribus ([Download](https://box.fu-berlin.de/s/3mjZLiF7FnJW8mF)) (Quelle: [Google Books](https://books.google.com/books?id=TWtVAAAAcAAJ&printsec=frontcover))
 - Vorbereitung für die nächste Sitzung
   - Installation des **Oxygen XML Editor** [über das Software-Portal der FU](https://portal.zedat.fu-berlin.de/software/)
 
