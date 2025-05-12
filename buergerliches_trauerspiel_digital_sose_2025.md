@@ -73,6 +73,10 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 ### 5. Sitzung: 19. Mai 2025 (Mo), 14–16 Uhr: »Die Lissabonner«
 - Lektüre zur Sitzung und Referatsthema
   - \[Christian Gottlieb Lieberkühn:\] Die Lissabonner, ein bürgerliches Trauerspiel, in einem Aufzuge. Breslau: Meyer 1758, S. 7–70. (über [Stabi Berlin](http://resolver.staatsbibliothek-berlin.de/SBB0000DC9D00000013) bzw. [Wikisource](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
+- Nachbesprechung zu regulären Ausdrücken
+  - regulärer Ausdruck für das Matchen getrennter Wörter am Zeilenende (für Visual Studio Code):
+    - Find: ```([a-zäöüß])=$\n([a-zäöüß]+[\.,\?!;]*) ```
+    - Replace: ```$1$2\n```
 - Konvertierung der Texte ins TEI-Format
   - Einführung in [EzDrama](https://github.com/dracor-org/ezdrama)
   - Arbeiten mit dem Oxygen XML Editor
