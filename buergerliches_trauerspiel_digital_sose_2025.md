@@ -80,6 +80,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
     - Replace: ```$1$2\n```
 - Konvertierung der Texte ins TEI-Format
   - Einführung in [EzDrama](https://github.com/dracor-org/ezdrama)
+    - Beispieldatei: ["2025-05-19_ezdrama-lissabonner-auszug.txt"](files/2025-05-19_ezdrama-lissabonner-auszug.txt)
   - Arbeiten mit dem Oxygen XML Editor
     - Beispieldatei: [TEI-Version von »Miß Sara Sampson«](https://dracor.org/api/v1/corpora/ger/plays/lessing-miss-sara-sampson/tei)
 

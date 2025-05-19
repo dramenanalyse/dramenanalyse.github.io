@@ -1,0 +1,26 @@
+@title Die Lissabonner
+@subtitle Ein bürgerliches Trauerspiel, in einem Aufzuge
+@author Christian Gottlieb Lieberkühn
+^Dramatis Personae
+Don Diego.
+Elvire, seine Gemahlin.
+Isabelle, Tochter desselben.
+Don Pedro, ein junger Portugiese.
+Sir Carl, ein schottländischer Edelmann.
+Osmyde, Bediente der Isabelle.
+Goncallo, Bedienter des Don Pedro.
+Ein fremder Bedienter.
+##Erster Auftritt.
+$ Don Pedro. Goncallo.
+@Don Pedro.
+Vergebens ist alle unsre Mühe! – – Wo soll ich sie ferner suchen? – – Ach hätte ich mich in die ofnen Risse der treulosen Erde gestürzet, in der Hofnung ihren schon halbverbrannten Körper zu umarmen. – Ich wäre zwar ein Raub der marternden Flammen geworden, aber dadurch einer weit grössern Marter entgangen, die mir am Herzen brennet. O Schicksal entdecke mir wenigstens, wie du deine Wuth an ihr ausgelassen hast. Wie gering ist diese Forderung! – Wie grausam die Barmherzigkeit, um welche ich dich flehe. Aber du kannst die Tugendhaften nicht so hart strafen – Du würdest uns wenigstens haben das Glück genießen lassen, mit einander zu sterben. Die allgemeine Noth, die ich mit empfinde, ist ja groß genug, als daß du für mich noch neue Qualen suchen solltest. Dein Scharfsinn, den du angewandt hast, diese Königsstadt zu verderben, ist schon zu sehr ermüdet, als daß du noch auf einen besonderen Jammer für mich denken könntest. Eine schwache Dämmerung der Munterkeit breitest du in meinem gepeinigten Gemüthe aus. Kann denn das Schicksal, auch wenn es die zornigsten Minen annimmt, die heiligen Triebe verdammen, die die Weisheit selbst nicht tadelt. – Isabelle lebt vielleicht noch. – Dies sagt mir die Stimme meines Gefühls, aber keine Stimme sagt mir, wo ich sie suchen soll, und lieber wollte ich doch jetzt die fürchterlichste, als gar keine hören –
+@Goncallo.
+Beruhigen Sie sich – – ich will sie nochmals allein suchen, trotz aller Gefahr des Lebens will ich sie suchen. Verweilen Sie unterdessen hier: Sie wird den Ort ihrer Zuflucht ohnstreitig muthmaßen, oder ihn auch wohl von selbst wählen.
+@Don Pedro.
+Zu süße Hofnung! – Quäle mich nicht mit solchen Vorstellungen. Bist du unmenschlich genug, dadurch mir einen Verlust nachher noch schrecklicher empfinden zu lassen, den du ohnedem nicht leiden könntest, und wenn du ein Engel würdest – Ja eile, Goncallo aber nicht in der Hofnung sie lebendig zu finden, sondern nur mir den Ort zu sagen, wo ich auf ihren erblaßten Körper noch bleicher hinsinken kann, oder (wenn ja das Schicksal gegen mich noch einige Zuneigung behalten hat, und die schwächsten Pfeile auf mich abdrückt,) wo ich ihren letzten Odem mit meinen Lippen auffangen kann – –
+@Goncallo.
+Es sey zu welchem Ende es wolle, so gehorche ich Ihnen – Zwar zu traurigen Bothschaften sollte man billig nur die größten Missethäter wählen – Doch warum nehme ich an ihrem Wahn Theil; ich hoffe Ihnen die glücklichste zu bringen. Aber verweilen Sie ja auf diesem Lusthause, wo Sie vielleicht ihres Lebens am meisten versichert sind. Erhalten Sie wenigstens so lange sorgfältig ihr Leben, so lange Sie nicht wissen, ob Sie blos dadurch das Leben ihrer Isabelle erhalten – – Die Unglückliche! Sie werden sie doch noch so sehr lieben, daß Sie dieselbe der Qual überheben, sie zu überleben.
+##Zweeter Auftritt.
+@Don Pedro.
+Ja, denn darum bin ich vielleicht dem Tode entkommen, um sie, und zugleich um mich selbst zu überleben – – Dem Tode, den so viel Tausende bitter empfunden haben, und noch nicht aufhören können ihn zu empfinden, die ein frohes Leben hätten genießen können. Warum durfte mein Blut nicht unter ihre zerquetschte Glieder fließen, und warum nahm mir das Schicksal nicht ein Leben, das die Verzweiflung sich eigen machen wird? Vielleicht mußte ich nur darum ein Zeuge von tausend Winselnden seyn, die mehr winselten, daß sie nicht sterben, als daß sie nicht leben konnten, damit ich mir einen Begrif von einer Qual machen könnte, der ich aufgehoben bin! Denn, ach ist Isabelle dahin, so werde ich eine Marter von tausend Sterbenden vereint fühlen, wenn ich ihr auch in wenigen Augenblicken folgen kann – – Ewige Gerichte, habt ihr nicht meinen Tod beschlossen, ach, so werde ich vielleicht in die schreckliche Versuchung gestürzt, zu glauben, daß ihr nur den Unglücklichen ein Leben beschließt. – – Aber nein, wie dieses aus leichten Brettern aufgeführte Haus den wütenden Stößen der unterirrdischen Gewalt widerstand, durch welche doch die festesten Mauern fielen, so kann der Tod nur diejenigen überwältigen, die in ihrem Glücke sicher prangen, und er gehet die vorbey, die von jedem Winde des Kummers hin und her beweget werden. – – Doch wie begehre ich den Tod so schnell, da ich mich vorhin mit der Hofnung des Lebens meiner Isabelle schmeichelte? Welche betrübte Ahndung! Ich habe keine gegründete Ursache ihren Tod zu vermuthen, und dennoch dünkt sie mir unwiederbringlich verloren.
+$Ende des Trauerspiels.
