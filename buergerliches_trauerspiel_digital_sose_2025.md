@@ -54,7 +54,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Festlegen der Semesterprojekte
 
 ### 4. Sitzung: 12. Mai 2025 (Mo), 14–16 Uhr: TEI und reguläre Ausdrücke
-- Texterfassung komplett: ([»Die Lissabonner« auf Wikisource](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf)) (= Lektüre zu nächster Woche)
+- Texterfassung komplett: ([»Die Lissabonner« auf Wikisource](https://de.wikisource.org/wiki/Die_Lissabonner)) (= Lektüre zu nächster Woche)
 - Semesterprojekte
   - Stand der Digitalisierungen (OCR) mit Transkribus
 - Lektüre zur Sitzung
@@ -72,7 +72,8 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 
 ### 5. Sitzung: 19. Mai 2025 (Mo), 14–16 Uhr: »Die Lissabonner«
 - Lektüre zur Sitzung und Referatsthema
-  - \[Christian Gottlieb Lieberkühn:\] Die Lissabonner, ein bürgerliches Trauerspiel, in einem Aufzuge. Breslau: Meyer 1758, S. 7–70. (über [Stabi Berlin](http://resolver.staatsbibliothek-berlin.de/SBB0000DC9D00000013) bzw. [Wikisource](https://de.wikisource.org/wiki/Index:Die_Lissabonner.pdf))
+  - \[Christian Gottlieb Lieberkühn:\] Die Lissabonner, ein bürgerliches Trauerspiel, in einem Aufzuge. Breslau: Meyer 1758, S. 7–70. (über [Stabi Berlin](http://resolver.staatsbibliothek-berlin.de/SBB0000DC9D00000013) bzw. [Wikisource](https://de.wikisource.org/wiki/Die_Lissabonner))
+  - [Folien](https://lehkost.github.io/slides/2025-05-19-lissabonner/index.html)
 - Nachbesprechung zu regulären Ausdrücken
   - regulärer Ausdruck für das Matchen getrennter Wörter am Zeilenende (für Visual Studio Code):
     - Find: ```([a-zäöüß])=$\n([a-zäöüß]+[\.,\?!;]*) ```
@@ -80,7 +81,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Konvertierung der Texte ins TEI-Format
   - Einführung in [EzDrama](https://github.com/dracor-org/ezdrama)
   - Arbeiten mit dem Oxygen XML Editor
-    - Beispieldatei: https://dracor.org/api/v1/corpora/ger/plays/lessing-miss-sara-sampson/tei
+    - Beispieldatei: [TEI-Version von »Miß Sara Sampson«](https://dracor.org/api/v1/corpora/ger/plays/lessing-miss-sara-sampson/tei)
 
 ### 6. Sitzung: 26. Mai 2025 (Mo), 14–16 Uhr: Distant Reading I: Voyant
 - Lektüre zur Sitzung und Referatsthema
