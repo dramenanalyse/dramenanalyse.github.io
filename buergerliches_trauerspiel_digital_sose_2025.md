@@ -87,11 +87,20 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 ### 6. Sitzung: 26. Mai 2025 (Mo), 14–16 Uhr: Distant Reading I: Voyant
 - Lektüre zur Sitzung und Referatsthema
   - Thomas Weitin, Thomas Gilli, Nico Kunkel: Auslegen und Ausrechnen. Zum Verhältnis hermeneutischer und quantitativer Verfahren in der Literaturwissenschaft. In: Zeitschrift für Literaturwissenschaft und Linguistik 46 (2016), S. 103–115. ([doi:10.1007/s41244-016-0004-8](https://doi.org/10.1007/s41244-016-0004-8))
-- Einführung in [Voyant](http://voyant-tools.org/)
+- Stand der Semesterprojekte
+- »Die Lissabonner« in [DraCor](https://dracor.org/id/ger000730)
+  - [Voyant Tools](https://voyant-tools.org/)
+  - [RAWGraphs](https://www.rawgraphs.io/)
+  - [Datawrapper](https://www.datawrapper.de/)
+  - [DraCor Tools-Tab](https://dracor.org/id/ger000730#tools)
+- Frage an LLMs: »Beschreibe die Rolle von Osmyde im Trauerspiel "Die Lissabonner" von Lieberkühn.«
+  - ChatGPT 4o [halluziniert](https://chatgpt.com/share/6834573c-7798-8007-8f85-748fd1a77fe9)
+  - Claude Sonnet 4 mit verbundenem [DraCor-MCP-Server](https://github.com/dracor-org/dracor-mcp) holt sich die Daten direkt aus dem Stück ([Ergebnis](https://claude.ai/share/e17712f4-7df7-405a-b711-4e297bf08cfa))
 
 ### 7. Sitzung: 2. Juni 2025 (Mo), 14–16 Uhr: Distant Reading II: Netzwerkanalyse
 - Lektüre zur Sitzung und Referatsthema
   - Franco Moretti: [Network Theory, Plot Analysis.](http://litlab.stanford.edu/LiteraryLabPamphlet2.pdf) Stanford Literary Lab Pamphlets 2. Webpublikation, 1. Mai 2011.
+  - Installation von [**Gephi**](https://gephi.org/)
 - Praxis
   - Verwendung von Gephi mit Daten aus dem [German Drama Corpus](https://dracor.org/ger)
 
@@ -112,8 +121,6 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
 - Empfohlene Lektüre
   - Anne Fleig: Handlungs-Spiel-Räume. Dramen von Autorinnen im Theater des ausgehenden 18. Jahrhunderts. Würzburg: Königshausen & Neumann 1999, S. 205–227. ([Voransicht in Google Books](https://books.google.com/books?id=kzVQbIoRU70C&pg=PA205))
 
-### 11. Sitzung: 7. Juli 2025 (Mo), 14–16 Uhr: Distant Reading IV
-- Vertiefung
-- Arbeit an den Semesterprojekten
+### 11. Sitzung: 7. Juli 2025 (Mo), 14–16 Uhr: Präsentation der Semesterprojekte
 
 ### 12. Sitzung: 14. Juli 2025 (Mo), 14–16 Uhr: Präsentation der Semesterprojekte
