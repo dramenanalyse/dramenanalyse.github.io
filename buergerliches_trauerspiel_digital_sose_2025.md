@@ -103,6 +103,7 @@ Im Mittelpunkt des Seminars steht das Trauerspiel der Aufklärung. Wir werden zu
   - Installation von [**Gephi**](https://gephi.org/)
 - Praxis
   - Verwendung von Gephi mit Daten aus dem [German Drama Corpus](https://dracor.org/ger)
+- [Battle of the Plays](https://battle-of-the-plays.github.io/)
 
 ### 8. Sitzung: 16. Juni 2025 (Mo), 14–16 Uhr: »Emilia Galotti«
 - Lektüre zur Sitzung und Referatsthema
