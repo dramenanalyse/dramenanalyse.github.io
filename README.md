@@ -7,6 +7,6 @@ Wir versammeln hier die Seminarpläne zu einschlägigen Veranstaltungen an der F
 
 ## Übersicht
 - Digitale Dramenanalyse (Sommersemester 2022) (FU)
-- [Methoden der Dramenanalyse: analog und digital](methoden_analog_digital_sose_2023) (Sommersemester 2023) (UP+FU)
-- [Der deutschsprachige Einakter](einakter_wise_2023-2024) (Wintersemester 2023/2024) (FU)
-- [Bürgerliches Trauerspiel digital](buergerliches_trauerspiel_digital_sose_2025) (Sommersemester 2025) (FU)
+- [Methoden der Dramenanalyse: analog und digital](https://dh-teaching.github.io/courses/2023s_methoden_analog_digital) (Sommersemester 2023) (UP+FU)
+- [Der deutschsprachige Einakter](https://dh-teaching.github.io/courses/2023w_einakter) (Wintersemester 2023/2024) (FU)
+- [Bürgerliches Trauerspiel digital](https://dh-teaching.github.io/courses/2025s_buergerliches_trauerspiel_digital) (Sommersemester 2025) (FU)
